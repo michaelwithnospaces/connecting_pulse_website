@@ -1,8 +1,6 @@
 import React from 'react';
 import Logo from "../Assets/Connect Pulse.png";
-import { BsTwitter } from 'react-icons/bs';
 import { SiLinkedin } from 'react-icons/si'
-import { BsYoutube } from 'react-icons/bs';
 import { BsInstagram } from 'react-icons/bs';
 
 const Footer = () => {
@@ -14,10 +12,8 @@ const Footer = () => {
                     <img src={Logo} alt="" />
                 </div>
                 <div className='footer-icons'>
-                    <BsTwitter/>
-                    <SiLinkedin/>
-                    <BsYoutube/>
-                    <BsInstagram/>
+                    <a href='https://www.linkedin.com/company/connecting-pulse/'><SiLinkedin/></a>
+                    <a href='https://www.instagram.com/connectingpulse/'><BsInstagram/></a>
                 </div>
             </div>
             <div className='footer-section-two'>
