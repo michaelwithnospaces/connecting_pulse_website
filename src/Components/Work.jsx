@@ -33,9 +33,7 @@ const Work = () => {
             <h1 className='primary-heading'>Fueling Progress,</h1>
             <h1 className='primary-heading'>Changing Lives</h1>
             <p className='primary-text'>
-                Lorem ipsum dolor sit amet consectetur. Non tincidunt 
-                magna non et elit. Dolor  turpis molestie dui
-                magnis facilisis at fringilla quam.
+            In the realm of research, innovation is ever-present, but what about change? Change is crucial for transforming innovative ideas into practical solutions. <b>Let's translate research to reality.</b>
             </p>
         </div>
         <div className='work-section-bottom'>
