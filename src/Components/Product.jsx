@@ -18,14 +18,12 @@ const Product = () => {
                 Championing Health, Changing Lives. 
             </h1>
             <p className="primary-text">
-                Lorem ipsum dolor sit amet consectetur. Non tincidunt 
-                magna non et elit. Dolor  turpis molestie dui
-                magnis facilisis at fringilla quam.
+                Over 40 million Americans lack health care access, ignored by re-elected politicians funded by overcharging pharmaceutical companies. Many feel voiceless, <b>but you do have a voice.</b>
             </p>
-            <p className="primary-text">
+            {/* <p className="primary-text">
                 Non tincidunt magna non et elit. Dolor turpis molestie 
                 dui magnis facilisis at fringilla quam.
-            </p>
+            </p> */}
             <div className="product-buttons-container">
                 <Link to="/advocacy">
                     <button className="secondary-button">Learn More</button>

@@ -10,31 +10,31 @@ export function Education() {
             <div className='education-page-container'>
                 <h1 className='primary-heading'>Education</h1>
                 <p className="primary-text">
-                    Inequities persist in education, particularly evident in title one schools where essential life-saving knowledge, like CPR, remains scarce. Public health resources are disproportionately absent within low-income communities, leaving many without access to vital healthcare education. While affluent areas thrive on ample funding and resources, worldwide, children lack education on basic first aid, healthcare rights, and disease prevention. Shockingly, only 18% of individuals globally are proficient in administering CPR, crucial for restarting a heart. Now imagine, do you want to grow in a world where you, your friends, and your family could not be saved in an emergency? Let's change the narrative.
+                    Educational inequities are still pervasive, especially in Title I schools where crucial life-saving knowledge, such as CPR, is often missing. Public health resources are disproportionately scarce in low-income communities, leaving many without access to essential healthcare education. While affluent areas benefit from ample funding and resources, children around the world lack education on basic first aid, healthcare rights, and disease prevention. Alarmingly, only 18% of people globally are proficient in administering CPR, a skill critical for restarting a heart. Imagine living in a world where neither you nor your loved ones could be saved in an emergency. Let's work together to change this reality.
                 </p>
             </div>
             <div className='education-page-container'>
                 <h1 className='primary-heading'>First Aid Children's Book</h1>
                 <p className="primary-text">
-                    Made for children this book takes initiative by teaching children simple first aid such as treating a nose bleed, wound treatment and bruises. 
+                    Designed for children, this book introduces eleven simple first aid techniques such as treating nosebleeds, managing wounds, and caring for bruises. By making these skills accessible and engaging, we aim to empower the youngest members of our society with the knowledge to act in emergencies. The book features colorful illustrations and relatable characters to make learning enjoyable and memorable.
                 </p>
             </div>
             <div className='education-page-container'>
                 <h1 className='primary-heading'>Health Education Video Game</h1>
                 <p className="primary-text">
-                    It has been proven that doing the things one loves to do improves brain function and memory. In this era, many kids enjoy playing video games. So to take an interesting spin on things we are in the process of creating a health education and public health video game to encourage elementary, middle, high schoolers and adults alike to learn about healthcare, first-aid and more.  
+                    Engaging in enjoyable activities has been shown to enhance brain function and memory. In today's digital age, many children love playing video games. To leverage this interest, we are developing a health education video game. This innovative game will teach elementary, middle, and high school students, as well as adults, about healthcare, first aid, and public health in an interactive and fun way.
                 </p>
             </div>
             <div className='education-page-container'>
                 <h1 className='primary-heading'>Heath Education Board Game</h1>
                 <p className="primary-text">
-                    It has been proven that doing the things one loves to do improves brain function and memory. In this era, many kids enjoy playing video games- but this is not so accessible at times, for reasons such as WiFi or just to cut screen time! So, we are in the process of creating a health education and public health board game to aid children, adults and the whole family in learning about healthcare, first aid, overall health and more!
+                    While video games are popular, they are not always accessible due to factors like internet connectivity and the need to reduce screen time. Therefore, we are also creating a health education board game. This game will offer an engaging way for children, adults, and families to learn about healthcare, first aid, and overall health. By bringing education to the table, we hope to make learning a communal and enjoyable experience.
                 </p>
             </div>
             <div className='education-page-container'>
                 <h1 className='primary-heading'>High School Senior CPR Training</h1>
                 <p className="primary-text">
-                    In partnership with Yale Emergency Medical Services and American Heart Association trained and licensed CPR instructors, we are taking to Connecticut as well as Texas to teach title-one school high school seniors ‘hands-on’ CPR training. Many schools use online programs or even a gym coach to train people nation-wide but is this so accessible, and if so is it credible? It is proven that ‘hands on’ activities tend to help many students remember actions better. Especially for activities such as CPR, you only have one chance to get it right so, learn with us?
+                    In collaboration with Yale Emergency Medical Services and the American Heart Association, we are bringing hands-on CPR training to high school seniors in Title I schools across Connecticut and Texas. Many schools rely on online programs or gym coaches for training, but these methods are not always accessible or effective. Hands-on training has been proven to enhance retention and understanding, especially for critical skills like CPR. With this initiative, we aim to ensure that students are well-prepared to act in life-saving situations. Join us and learn CPR the right way!
                 </p>
             </div>
             <Footer/>

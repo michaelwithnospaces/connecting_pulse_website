@@ -18,10 +18,7 @@ const Home = () => {
                 Educating Minds, Changing Lives
             </h1>
             <p className="primary-text">
-                Lorem ipsum dolor sit amet consectetur. 
-                Non tincidunt. Dolor  turpis molestie dui quam
-                magna non et elit. Dolor  turpis molestie dui
-                magnis facilisis at fringilla quam.
+                Unlike schools in affluent areas, Title One schools often lack essential health education like CPR, which can have fatal consequences to a stranger, friend, or family; <b>let's change this narrative.</b>
             </p>
             <div className="home-buttons-container">
               <Link to="/education">
