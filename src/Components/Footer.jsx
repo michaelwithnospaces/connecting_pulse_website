@@ -26,12 +26,14 @@ const Footer = () => {
                     <span>Work</span>
                 </div>
                 <div className='footer-section-columns'>
-                    <span>123-456-7890</span>
-                    <span>hello@cpulse.org</span>
-                    <span>business@cpulse.org</span>
-                    <span>contact@cpulse.org</span>
-                </div>
-                <div className='footer-section-columns'>
+                    <span>682-306-1846</span>
+                    <span>connectingpulse@gmail.com</span>
+                    <span>sales.cpulse@gmail.com</span>
+                    <span>business.cpulse@gmail.com</span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
                     <span>Terms and Conditions</span>
                     <span>Privacy Policy</span>
                 </div>
