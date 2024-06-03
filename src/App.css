@@ -368,8 +368,16 @@ nav {
 }
 
 
+/* Partner Sections */
 
-
+.partner-images-container {
+  padding-top: 60px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  flex-direction: column;
+  max-width: 600px;
+}
 
 
 @media (max-width: 1000px) {
