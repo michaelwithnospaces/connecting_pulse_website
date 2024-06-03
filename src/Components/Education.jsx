@@ -2,6 +2,7 @@ import React from 'react';
 import ProductBackground from "../Assets/Product Section Background.png";
 import ProductBackgroundImage from "../Assets/Card Picture.png";
 import { Link } from 'react-router-dom';
+import { BsFillPlayCircleFill } from 'react-icons/bs';
 
 const Product = () => {
   return (
@@ -20,14 +21,11 @@ const Product = () => {
             <p className="primary-text">
                 Unlike schools in affluent areas, Title One schools often lack essential health education like CPR, which can have fatal consequences to a stranger, friend, or family; <b>let's change this narrative.</b>
             </p>
-            {/* <p className="primary-text">
-                Non tincidunt magna non et elit. Dolor turpis molestie 
-                dui magnis facilisis at fringilla quam.
-            </p> */}
             <div className="product-buttons-container">
                 <Link to="/advocacy">
                     <button className="secondary-button">Learn More</button>
                 </Link>
+                <button className="play-game-button"><BsFillPlayCircleFill/>PlayGame</button>
             </div>
         </div>
     </div>

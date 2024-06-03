@@ -2,7 +2,6 @@ import React from 'react';
 import Navbar from "./Navbar";
 import BannerBackground from "../Assets/Banner Background.png";
 import BannerImage from "../Assets/Connect Pulse Logo.png";
-import { BsFillPlayCircleFill } from 'react-icons/bs';
 import { Link } from 'react-router-dom';
 
 const Home = () => {
@@ -24,7 +23,6 @@ const Home = () => {
               <Link to="/education">
                 <button className="secondary-button">Learn More</button>
               </Link>
-              <button className="play-game-button"><BsFillPlayCircleFill/>PlayGame</button>
             </div>
           </div>
           <div className="home-image-section">
