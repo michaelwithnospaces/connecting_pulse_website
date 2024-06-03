@@ -15,10 +15,10 @@ const Product = () => {
         <div className="product-section-text-container">
             <p className="primary-subheading">Education</p>
             <h1 className="primary-heading">
-                Championing Health, Changing Lives. 
+                Educating Minds, Changing Lives 
             </h1>
             <p className="primary-text">
-                Over 40 million Americans lack health care access, ignored by re-elected politicians funded by overcharging pharmaceutical companies. Many feel voiceless, <b>but you do have a voice.</b>
+                Unlike schools in affluent areas, Title One schools often lack essential health education like CPR, which can have fatal consequences to a stranger, friend, or family; <b>let's change this narrative.</b>
             </p>
             {/* <p className="primary-text">
                 Non tincidunt magna non et elit. Dolor turpis molestie 

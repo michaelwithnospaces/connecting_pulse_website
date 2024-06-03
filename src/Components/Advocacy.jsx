@@ -14,10 +14,10 @@ const Home = () => {
           <div className="home-text-section">
             <p className='primary-subheading'>Advocacy</p>
             <h1 className="primary-heading">
-                Educating Minds, Changing Lives
+              Championing Health, Changing Lives.
             </h1>
             <p className="primary-text">
-                Unlike schools in affluent areas, Title One schools often lack essential health education like CPR, which can have fatal consequences to a stranger, friend, or family; <b>let's change this narrative.</b>
+            Over 40 million Americans lack health care access, ignored by re-elected politicians funded by overcharging pharmaceutical companies. Many feel voiceless, <b>but you do have a voice.</b>
             </p>
             <div className="home-buttons-container">
               <Link to="/education">

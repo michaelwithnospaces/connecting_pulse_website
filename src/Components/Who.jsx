@@ -15,10 +15,10 @@ const Home = () => {
           </div>
           <div className="home-text-section">
             <h1 className="primary-heading">
-                Educating Minds, Changing Lives
+                Who Are We
             </h1>
             <p className="primary-text">
-                Unlike schools in affluent areas, Title One schools often lack essential health education like CPR, which can have fatal consequences to a stranger, friend, or family; <b>let's change this narrative.</b>
+              Connecting Pulse is a United Nations Civil Society and 501(c)(3) providing health education to low-income areas. We are split into three collaborating departments: education, advocacy, and research. To date, we have provided CPR training to Title 1 schools and created patented devices, board games, video games, and children's books.
             </p>
             <div className="home-buttons-container">
               <Link to="/education">
