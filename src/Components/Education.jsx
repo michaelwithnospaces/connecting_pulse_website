@@ -13,7 +13,7 @@ const Product = () => {
             <img src={ProductBackgroundImage} alt=""/>
         </div>
         <div className="product-section-text-container">
-            <p className="primary-subheading">Advocacy</p>
+            <p className="primary-subheading">Education</p>
             <h1 className="primary-heading">
                 Championing Health, Changing Lives. 
             </h1>
