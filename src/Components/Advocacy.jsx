@@ -1,6 +1,6 @@
 import React from 'react';
 import BannerBackground from "../Assets/Product Section Background Reverse.png";
-import BannerImage from "../Assets/Connect Pulse Logo.png";
+import BannerImage from "../Assets/advocacy.png";
 // import { BsFillPlayCircleFill } from 'react-icons/bs';
 import { Link } from 'react-router-dom';
 
