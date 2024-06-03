@@ -379,6 +379,25 @@ nav {
   max-width: 50%;
 }
 
+/* Education tab */
+
+.four-tab-row-image {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+.three-tab-row-image {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+.game-image-container{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  flex-direction: column;
+  width: 50%;
+}
 
 @media (max-width: 1000px) {
   .navbar-links-container a {
